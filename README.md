@@ -123,3 +123,6 @@ Step 3b: Create AWS Provider.tf file and Backend.tf
 
 <img width="824" height="264" alt="image" src="https://github.com/user-attachments/assets/d65d838f-3776-4d82-ae7d-4e78f9268c2d" />
 
+# Configure Github Secrets
+<img width="800" height="695" alt="image" src="https://github.com/user-attachments/assets/7e7baff1-9803-44b1-babc-08ed16ed034c" />
+
