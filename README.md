@@ -17,3 +17,10 @@ AWS account with permissions to create EKS resources.
 AWS CLI installed and configured on your local machine.
 
 kubectl installed for Kubernetes cluster management.
+
+# Step 1: Create GitHub Repositories and Clone it Locally
+
+<img width="943" height="519" alt="image" src="https://github.com/user-attachments/assets/283836c6-3be3-46f5-979c-0a6cd7c9d82d" />
+
+# Step 2.
+Create and Configure Terraform for EKS Setup
