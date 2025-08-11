@@ -115,3 +115,7 @@ module "eks" {
     }
   }
 } 
+
+```
+Step 3b: Create AWS Provider.tf file and Backend.tf
+<img width="851" height="771" alt="image" src="https://github.com/user-attachments/assets/41e958ae-e871-4450-8661-b4454da71a53" />
